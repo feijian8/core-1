@@ -95,6 +95,7 @@
             <module>scaffold</module>
 
             <module>core</module>
+            <module>bean-validation</module>
          </modules>
       </profile>
    </profiles>
